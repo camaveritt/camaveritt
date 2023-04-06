@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Averitt
-- 👀 I’m interested in Python, SQL, JS, Shell Scripting
+- 👀 I’m interested in `Python`, `SQL`, `JS`, Shell Scripting
 - 🌱 I’m currently learning Python and Information Security
 - 💞️ I’m looking for employment at a place where I can utilize my skills while continuing to build on them
 
